@@ -1,0 +1,20 @@
+body {
+  background-color: #FDFDFD;
+}
+
+h1 {
+  font-family: 'Courier New', monospace;
+  font-weight: 400;
+  font-size: 38px;
+  text-align: center;
+  color: #444444;
+}
+
+.box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  width: 1000px;
+  margin: auto;
+}
